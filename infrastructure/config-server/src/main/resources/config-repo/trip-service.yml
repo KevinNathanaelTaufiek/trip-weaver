@@ -1,0 +1,2 @@
+test:
+  another: overrided value from trip-service.yml in config-repo

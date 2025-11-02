@@ -1,0 +1,4 @@
+test:
+  config:
+    value: This is a test value from application.yml in config-repo
+  another: Another value from application.yml in config-repo
