@@ -8,7 +8,7 @@
     <artifactId>trip-weaver</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Trip Weaver</name>
+    <name>Trip Weaver Root</name>
     <description>Monorepo for TripWeaver microservices platform</description>
 
     <modules>
